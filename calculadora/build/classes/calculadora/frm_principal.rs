@@ -1,0 +1,8 @@
+calculadoravictor.frm_principal$5
+calculadoravictor.frm_principal$4
+calculadoravictor.frm_principal$7
+calculadoravictor.frm_principal$6
+calculadoravictor.frm_principal$1
+calculadoravictor.frm_principal
+calculadoravictor.frm_principal$3
+calculadoravictor.frm_principal$2
